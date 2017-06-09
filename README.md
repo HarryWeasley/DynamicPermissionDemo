@@ -1,0 +1,2 @@
+# DynamicPermissionDemo
+android动态权限的使用
